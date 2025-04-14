@@ -109,7 +109,7 @@ export default function HomePage() {
           Senior ML-инженер, VisionLabs
         </p>
         <p className="text-muted-foreground text-sm">
-          Telegram: <a href="https://t.me/yourtelegram" className="underline">@versechorus</a>
+          Telegram: <a href="https://t.me/versechorus" className="underline">@versechorus</a>
         </p>
         <p className="text-muted-foreground text-sm">
           Методичка: <a href="https://github.com/verse-chorus/mentorship/blob/main/teormin/math_teormin.pdf" className="underline">Перейти</a>
