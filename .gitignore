@@ -12,6 +12,8 @@
 *.cb2
 .*.lb
 
+ml-mentor-site/
+
 ## Intermediate documents:
 *.dvi
 *.xdv
