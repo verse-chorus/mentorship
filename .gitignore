@@ -12,7 +12,9 @@
 *.cb2
 .*.lb
 
+moks/
 ml-mentor-site/
+reviews/
 
 ## Intermediate documents:
 *.dvi
@@ -314,3 +316,5 @@ TSWLatexianTemp*
 *.png
 *.jpg
 *.jpeg
+
+transcribe.py
