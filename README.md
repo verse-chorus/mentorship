@@ -29,7 +29,7 @@
 
 ### Разное
 - [Карта навыков MLщика](https://yandex.ru/company/researches/2024/ml-developers)
-- Реализация архитектур from scratch: 1) [ML-From-Scratch](https://yandex.ru/company/researches/2024/ml-developers), 2) [numpy-ml](https://github.com/ddbourgin/numpy-ml), 3) [Репа с построчными комментариями концепций ML](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+- Реализация архитектур from scratch: 1) [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch), 2) [numpy-ml](https://github.com/ddbourgin/numpy-ml), 3) [Репа с построчными комментариями концепций ML](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 - [Более глубокий нырок в устройство различных архитектур](https://github.com/elicit/machine-learning-list)
 - [Анимации по МЛ](https://github.com/markhliu/ml_animated): может быть полезно проверить, правильно ли визуализируются в голове разные выученные идеи
 - [репа с лоссами для сегментации](https://github.com/JunMa11/SegLossOdyssey)
